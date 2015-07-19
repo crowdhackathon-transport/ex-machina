@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:26
+#EXTINF:9.901,
+"/multimedia/carrie_underwood.mp3"
+#EXTINF:9.902,
+"/multimedia/halestorm_amen.mp3"

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Event List</title>
+<link href="../css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- Custom Theme files --> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>-->
+<!--webfont-->
+</head>
+<body>
+	<!-- header-section-starts -->
+    <div class="menu">
+				<ul>
+					<li><a href="../index.html"><i class="home"></i></a></li>
+                    <li><a href="../theater/index.html"><div class="video"><i class="videos"></i><i class="videos1"></i></div></a></li>
+					<li><a href="../theater/music.html"><div class="watching"><i class="watching"></i><i class="watching1"></i></div></a></li>
+                    <li><a class="active" href="index.html"><div class="video"><i class="videos"></i><i class="videos1"></i></div></a></li>
+				</ul>
+    </div>
+    <div class="container">
+		<div class="row">
+			<div class="[ col-xs-12 col-sm-offset-2 col-sm-8 ]">
+				<ul class="event-list">
+					<li>
+						<time datetime="2014-07-20">
+							<span class="day">4</span>
+							<span class="month">Ιουλ.</span>
+							<span class="year">2014</span>
+							<span class="time">ΟΛΗ ΜΕΡΑ</span>
+						</time>
+						<img alt="Δωρεάν ξενάγηση στην Ακρόπολη" src="images/event_acropolis.jpg" />
+						<div class="info">
+							<h2 class="title">Δωρεάν ξενάγηση στην Ακρόπολη</h2>
+							<p class="desc">Πολιτισμός</p>
+						</div>
+						<div class="social">
+							<ul>
+								<li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+								<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+								<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>
+							</ul>
+						</div>
+					</li>
+
+					<li>
+						<time datetime="2014-07-20 0000">
+							<span class="day">8</span>
+							<span class="month">Ιουλ.</span>
+							<span class="year">2014</span>
+							<span class="time">12:00 ΠΜ</span>
+						</time>
+                        <img alt="Παραδοσιακή κουζίνα της Ηπείρου" src="images/event_kouzina.jpg" />
+						<div class="info">
+							<h2 class="title">Παραδοσιακή κουζίνα της Ηπείρου</h2>
+							<p class="desc">Πολιτισμός</p>
+							<ul>
+								<li style="width:50%;"><a href="#website"><span class="fa fa-globe"><!-- </span> Website</a></li> -->
+								<li style="width:50%;"><span class="fa fa-money"><!-- </span> $39.99</li> -->
+							</ul>
+						</div>
+						<div class="social">
+							<ul>
+								<li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+								<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+								<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>
+							</ul>
+						</div>
+					</li>
+
+					<li>
+						<time datetime="2014-07-20 2000">
+							<span class="day">20</span>
+							<span class="month">Αυγ.</span>
+							<span class="year">2014</span>
+							<span class="time">8:00 ΜΜ</span>
+						</time>
+						<img alt="My 24th Birthday!" src="images/event_jazz_night.jpg" />
+						<div class="info">
+							<h2 class="title">Βραδιά jazz</h2>
+							<p class="desc">Μουσική</p>
+							<!--<ul>
+								<li style="width:33%;">1 <span class="glyphicon glyphicon-ok"></span></li>
+								<li style="width:34%;">3 <span class="fa fa-question"></span></li>
+								<li style="width:33%;">103 <span class="fa fa-envelope"></span></li>
+							</ul>-->
+						</div>
+						<div class="social">
+							<ul>
+								<li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+								<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+								<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>
+							</ul>
+						</div>
+					</li>
+
+					<li>
+						<time datetime="2014-07-31 1600">
+							<span class="day">31</span>
+							<span class="month">Αυγ.</span>
+							<span class="year">2014</span>
+							<span class="time">4:00 ΜΜ</span>
+						</time>
+						<img alt="Disney Junior Live On Tour!" src="images/event_thater.jpg" />
+						<div class="info">
+							<h2 class="title">Θεατρική παράσταση για παιδιά</h2>
+							<p class="desc">Πολιτισμός</p>
+							<!--<ul>
+								<li style="width:33%;">$49.99 <span class="fa fa-male"></span></li>
+								<li style="width:34%;">$29.99 <span class="fa fa-child"></span></li>
+							</ul>-->
+						</div>
+						<div class="social">
+							<ul>
+								<li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+								<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+								<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</body>
