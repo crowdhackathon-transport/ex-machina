@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="js/sockjs-0.3.4.min.js"></script>
+    <script src="js/stomp.js"></script>
+    <script type="text/javascript">
+        var socket = new SockJS('http://localhost:8088/stream');
+        var stompClient = Stomp.over(socket);
+
+        stompClient.connect({},function(frame){
+          stompClient.subscribe('/topic/update',function(message) {
+            console.log(message);
+          });
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
