@@ -1,0 +1,3 @@
+[submodule "opentripplanner-android"]
+	path = opentripplanner-android
+	url = https://github.com/weatherxm/OpenTripPlanner-for-Android.git
