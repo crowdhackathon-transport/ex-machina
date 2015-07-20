@@ -4,10 +4,10 @@ Code repository for the participation of team Ex Machina in Crowdhackathon Trans
 ## Meet the team
 ![Team][1]
 
-## Project Architecture
+## Project architecture
 ![Architecture][2]
 
-## List of projects
+## List of working prototypes as presented
 - OpenTripPlanner Server hacked fork
 - OpenTripPlanner Android hacked fork
 - GTFS Message Broker (middleware)
@@ -17,13 +17,13 @@ Code repository for the participation of team Ex Machina in Crowdhackathon Trans
 ## Documentation
 You can find a full tutorial for setting up the OpenTripPlanner server using Athens transport open data (GTFS) [here][4].
 
-## Project Presentation
-You can find our final presentation [here][3].
-
 ## Hackathon Notes
 We thought it would be interesing to include the document we used for team collaboration during the two days of the hackathon.
 It may give you insights regarding our way of thinking and approaching the problem, and the plan that lead us to the first place!  
 You can find it [here][5].
+
+## Project Presentation
+You can find our final presentation [here][3].
 
 [1]: /assets/team.png "Team"
 [2]: /assets/diagram.png "Architecture Diagram"
