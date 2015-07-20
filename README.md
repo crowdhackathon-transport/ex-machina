@@ -4,17 +4,17 @@ Code repository for the participation of team Ex Machina in Crowdhackathon Trans
 ## Meet the team
 ![Team][1]
 
-## Project Architecture
+## Project architecture
 ![Architecture][2]
 
-## List of projects
+## List of working prototypes as presented
 - OpenTripPlanner Server hacked fork
 - OpenTripPlanner Android hacked fork
 - GTFS Message Broker (middleware)
 - Raspberry Pi in-vehicle WiFi Hotspot and Portal (Pirate Box hacked fork)
 - Arduino GSPS And Sensor data collector and transmitter 
 
-## Project Presentation
+## Project presentation
 See the hackathon presentation [here][3].
 
 [1]: /assets/team.png
